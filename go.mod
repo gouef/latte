@@ -1,7 +1,7 @@
 module github.com/gouef/latte
 
 require (
-	github.com/expr-lang/expr v1.17.5
+	github.com/expr-lang/expr v1.17.7
 	golang.org/x/net v0.43.0
 )
 
